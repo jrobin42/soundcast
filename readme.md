@@ -19,7 +19,7 @@ To run this project, execute the following lines
 
 ```shell
 git clone https://github.com/jrobin42/soundcast.git $GOPATH/src/soundcast
-cd soundcast/
+cd $GOPATH/src/soundcast/
 
 go get -d ./...
 
