@@ -18,7 +18,7 @@ Json Response :
 To run this project, execute the following lines
 
 ```shell
-git clone https://github.com/jrobin42/soundcast.git
+git clone https://github.com/jrobin42/soundcast.git $GOPATH/src/soundcast
 cd soundcast/
 
 go get -d ./...
