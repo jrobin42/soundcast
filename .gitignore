@@ -1,1 +1,3 @@
 api
+.DS_Store
+requests.log
